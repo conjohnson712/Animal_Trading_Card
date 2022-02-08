@@ -1,0 +1,44 @@
+h3 { 
+    font: bold 24pt serif;
+    text-align: center;
+    padding: 2px; 
+    }
+
+.picture {
+    width: 300px;
+    margin: 2px;
+    padding: 2px;
+    image-orientation: center;
+    }
+
+body {
+    width: 305px;
+    }
+
+span {
+    font-weight: bold;
+    }
+
+li {
+    list-style-type: none;
+    }
+
+.information {
+    border: 2pt solid black;
+    background-color: lightsalmon;
+    margin: 2px;
+    padding: 2px;
+    }
+
+.card {
+    border: 2pt solid purple;
+    box-shadow: 10px 10px purple;
+    background-color:lightgreen;
+    width: 305px; 
+    padding: 1em;
+    margin: 1em;
+    }
+
+.fact {
+    font-style: italic;
+    }
